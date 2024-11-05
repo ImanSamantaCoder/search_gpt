@@ -1,0 +1,12 @@
+streamlit==1.25.0
+pandas==1.5.3
+numpy==1.24.3
+langchain-groq==0.0.1  # Replace with the actual version if available
+nltk==3.8.1
+sentence-transformers==2.2.2
+tensorflow==2.12.0
+pillow==9.5.0
+requests==2.31.0
+scikit-learn==1.2.2
+google-colab==1.0.0  # Only if needed outside Colab
+
