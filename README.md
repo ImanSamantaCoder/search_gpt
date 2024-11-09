@@ -1,1 +1,1 @@
-Pruduct search usinh text,image,audio
+Product search using text,image,audio
